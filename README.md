@@ -8,5 +8,10 @@
     <dd>3. 보급률/ 시 경제</dd>
   </dt>
 </dl>
+<hr>
+1. pandas profiling
+표를 정리해서 상관계수를 확인한다.
 
+2. numpy
+weight(가중치)를 구한다.
 
