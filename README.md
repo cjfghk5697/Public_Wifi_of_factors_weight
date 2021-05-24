@@ -1,4 +1,21 @@
 # Public_Wifi_of_factors_weight
+# 파일 경로
+data
+csv
+└── publicwifi.csv
+profiling
+├── pandasprofiling.ipynb
+└── report.html
+VIF
+├── image
+    ├── csv file.png
+    ├── scatterplot.png
+    ├── OLS Results.png
+    └── OLS Results2.png
+└── VIF.ipynb
+
+index.html
+
 # 공공와이파이 요인 데이터 분석 방법
 
 연구는 면적, 지역 총생산, 인구가 지역별 보급대수에 영향을 주는지 확인하기 위한 것이다. 그래서 다중공선성(Multicollinearity)이 있는지 VIF(Variance Inflation Factors)를 이용해 구해볼 것이다.
