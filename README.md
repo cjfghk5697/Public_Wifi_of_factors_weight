@@ -1,20 +1,19 @@
 # Public_Wifi_of_factors_weight
 # 파일 경로
-data
-csv
-└── publicwifi.csv
-profiling
-├── pandasprofiling.ipynb
-└── report.html
-VIF
-├── image
-    ├── csv file.png
-    ├── scatterplot.png
-    ├── OLS Results.png
-    └── OLS Results2.png
-└── VIF.ipynb
+data<br>
+csv<br>
+└── publicwifi.csv<br>
+profiling<br>
+├── pandasprofiling.ipynb<br>
+└── report.html<br>
+VIF<br>
+├── image<br>
+    ├── csv file.png<br>
+    ├── scatterplot.png<br>
+    ├── OLS Results.png<br>
+    └── OLS Results2.png<br>
+└── VIF.ipynb<br>
 
-index.html
 
 # 공공와이파이 요인 데이터 분석 방법
 
