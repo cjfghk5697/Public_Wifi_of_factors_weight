@@ -8,10 +8,10 @@ profiling<br>
 └── report.html<br>
 VIF<br>
 ├── image<br>
-    ├── csv file.png<br>
-    ├── scatterplot.png<br>
-    ├── OLS Results.png<br>
-    └── OLS Results2.png<br>
+    &nbsp├── csv file.png<br>
+    &nbsp├── scatterplot.png<br>
+    &nbsp├── OLS Results.png<br>
+    &nbsp└── OLS Results2.png<br>
 └── VIF.ipynb<br>
 
 
