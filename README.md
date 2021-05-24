@@ -9,7 +9,7 @@ profiling<br>
 VIF<br>
 ├── image<br>
          ├── csv file.png<br>
-    &nbsp├── scatterplot.png<br>
+    &nbsp;├── scatterplot.png<br>
     &nbsp├── OLS Results.png<br>
     &nbsp└── OLS Results2.png<br>
 └── VIF.ipynb<br>
